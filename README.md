@@ -8,11 +8,14 @@
   ### Do your best and god will do the rest
 </div>
 
+<br/>
 
+<!-- 
 <div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9thxg&count_bg=%2300FFDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+-->
 
 <div align="center">
   
@@ -28,6 +31,7 @@
 
 <br/>
 
+<!--
 <div align="center">
   
   ## Sub Tech Stack
@@ -56,7 +60,6 @@
 
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Electron-47848f?style=for-the-badge&logo=Electron&logoColor=white">
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -67,17 +70,18 @@
   <img src="https://img.shields.io/badge/Recoil-3578e5?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
-
-<br/>
+-->
 <hr/>
+<br/>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thxg&layout=compact)](https://github.com/9thxg/github-readme-stats)
+</div>
 
 <div align="center">
   
   [![9thxg's GitHub stats](https://github-readme-stats.vercel.app/api?username=9thxg)](https://github.com/9thxg)
-</div>
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thxg&layout=compact)](https://github.com/9thxg/github-readme-stats)
 </div>
 
 <!--
