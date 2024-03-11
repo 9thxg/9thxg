@@ -74,6 +74,7 @@
 <hr/>
 <br/>
 
+<!--
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thxg&layout=compact)](https://github.com/9thxg/github-readme-stats)
@@ -83,6 +84,7 @@
   
   [![9thxg's GitHub stats](https://github-readme-stats.vercel.app/api?username=9thxg)](https://github.com/9thxg)
 </div>
+-->
 
 <!--
 **9thxg/9thxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
