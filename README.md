@@ -71,10 +71,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 -->
+
+<!--
 <hr/>
 <br/>
 
-<!--
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thxg&layout=compact)](https://github.com/9thxg/github-readme-stats)
